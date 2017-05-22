@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=w\ map\ goal\ number
+comment0.target=Way\ find_route(Way,\ java.util.HashMap,\ Node,\ int)
+numComments=1

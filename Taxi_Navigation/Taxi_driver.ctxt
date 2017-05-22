@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=void\ set_coordinate_x(java.lang.String)
+comment0.text=\r\n\ Objects\ of\ class\ Taxi_drivers\r\n\ Each\ taxi\ driver\ has\ his\ coordinates\ x\ and\ y\ and\r\n\ hit\ id.\r\n
+comment1.params=y
+comment1.target=void\ set_coordinate_y(java.lang.String)
+comment2.params=tid
+comment2.target=void\ set_id(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ get_coordinate_x()
+comment4.params=
+comment4.target=java.lang.String\ get_coordinate_y()
+comment5.params=
+comment5.target=java.lang.String\ get_id()
+numComments=6

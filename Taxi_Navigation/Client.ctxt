@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Client(double,\ double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Client\r\n\ This\ constructor\ creates\ an\ object\ of\ class\ Client\r\n\ and\ defines\ its\ coordinates\r\n
+comment1.params=
+comment1.target=double\ get_coordinate_x()
+comment2.params=
+comment2.target=double\ get_coordinate_y()
+comment3.params=x
+comment3.target=void\ set_coordinate_x(double)
+comment4.params=y
+comment4.target=void\ set_coordinate_y(double)
+numComments=5
